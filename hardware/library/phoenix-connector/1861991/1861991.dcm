@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1861991
+D PCB terminal block, nominal current: 16 A, rated voltage (III/2): 160 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: SPTAF 1/..-IL, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 ?, color: green, Pin layout: Linear double pinning, Solder pin [P]: 2.6 mm, type of packaging: packed in cardboard
+K
+F http://www.phoenixcontact.com/de/produkte/1861991/pdf
+$ENDCMP
+#
+#End Doc Library

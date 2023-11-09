@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1091946
+D RJ45 PCB connectors, design: RJ45, degree of protection: IP20, number of positions: 8, 10 Gbps, material: Copper alloy, connection method: THR solder connection
+K
+F http://www.phoenixcontact.com/de/produkte/1091946
+$ENDCMP
+#
+#End Doc Library

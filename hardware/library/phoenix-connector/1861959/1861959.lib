@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1861959
+#/1319051/506064/2.50/8/2/Connector
+DEF 1861959 J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "1861959" 850 200 50 H V L CNN
+F2 "1861959" 850 100 50 H I L CNN
+F3 "http://www.phoenixcontact.com/de/produkte/1861959/pdf" 850 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 16 A, rated voltage (III/2): 160 V, nominal cross section: 1.5 mm?, Number of potentials: 4, Number of rows: 1, Number of positions per row: 4, product range: SPTAF 1/..-IL, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 ?, color: green, Pin layout: Linear double pinning, Solder pin [P]: 2.6 mm, type of packaging: packed in cardboard" 850 -100 50 H I L CNN "Description"
+F5 "8.15" 850 -200 50 H I L CNN "Height"
+F6 "Phoenix Contact" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1861959" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "651-1861959" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1861959?qs=tlR8i4ZVbUel2Bo7zvSPIA%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "1861959" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/1861959/phoenix-contact" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1.1 1 0 0 200 R 50 50 0 0 P
+X 1.2 2 1000 0 200 L 50 50 0 0 P
+X 2.1 3 0 -100 200 R 50 50 0 0 P
+X 2.2 4 1000 -100 200 L 50 50 0 0 P
+X 3.1 5 0 -200 200 R 50 50 0 0 P
+X 3.2 6 1000 -200 200 L 50 50 0 0 P
+X 4.1 7 0 -300 200 R 50 50 0 0 P
+X 4.2 8 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
